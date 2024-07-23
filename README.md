@@ -21,7 +21,6 @@ Este projeto demonstra a implementação de um sistema de autenticação e autor
 
 ## Estrutura do Projeto
 
-- `src/main/java/com/exemplo/projeto`:
   - `config`: Configurações de segurança
   - `controller`: Controladores REST
   - `model`: Entidades JPA
